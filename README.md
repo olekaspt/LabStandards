@@ -5,7 +5,8 @@ Revised 20-Sep-2022
 ## C++ Coding Standards
 
 1. Naming standards must conform to Google OS naming standards - https://google.github.io/styleguide/cppguide.html#Naming
-2. All classes must be declared in their own header files. And implementation in their own implementation file.
+2. all code should be comment sufficently.
+3. All classes must be declared in their own header files. And implementation in their own implementation file.
 
 
 ## Lab Report Guidelines
