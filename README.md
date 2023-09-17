@@ -5,9 +5,12 @@ Revised 20-Sep-2022
 ## C++ Coding Standards
 
 1. Naming standards must conform to Google OS naming standards - https://google.github.io/styleguide/cppguide.html#Naming
-2. all code should be comment sufficently.
-3. All classes must be declared in their own header files. And implementation in their own implementation file.
-
+2. all code should be commentend sufficently.  This means all methods, constructors, etcs shoudl have a comment.
+3. All classes must be declared in their own header files. And implementation in their own implementation file. 
+5. Consistency : Code should follow a consistent style throughout.
+6. Indentation and Spacing : Proper indentation and spacing should be used to enhance code readability.
+7. Naming Conventions : Variable and function names should follow a consistent naming convention.
+8. Comments and Documentation : Adequate comments and documentation should be included to explain the code's logic.
 
 ## Lab Report Guidelines
 
