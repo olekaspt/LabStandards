@@ -1,6 +1,6 @@
 # LabStandards
 Coding and Lab Standards
-Revised 20-Sep-2022
+Revised 17-Sep-2023
 
 ## C++ Coding Standards
 
