@@ -1,6 +1,9 @@
 # LabStandards
 Coding and Lab Standards
-Revised 17-Sep-2023
+Revised 15-Oct-2023
+
+## Structure 
+All labs must follow this pattern.  The application code must be in a shared libary.  And then a main executable that depends upon the shared library.  And then gtest executablet to test the code in the shared library.
 
 ## C++ Coding Standards
 
