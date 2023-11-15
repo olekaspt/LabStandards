@@ -5,6 +5,8 @@ Revised 15-Oct-2023
 ## Structure 
 All labs must follow this pattern.  The application code must be in a shared libary.  And then a main executable that depends upon the shared library.  And then gtest executablet to test the code in the shared library.
 
+The exception to this is if you have a Tempalate invovled.  In which case there is no need for a shared library due to the nature of templates.
+
 ## Unit Tests
 
 When you are asked to write unittests, it is expected that at least half of you unit test's per method will not be trivial, i.e. just one call on the method.   As typically you will want to have more complicated cases.  For, example add 3 items to the ADT, and then remove one of them is an example of non-trivial unit test.
